@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "shipping_address": "1 Main Street",
+    "delivery_method": "Pickup",
+    "payment_method": "Cash",
+    "total_amount": 100,
+    "status": "Shipped"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "shipping_address": "2 Main Street",
+    "delivery_method": "Courier",
+    "payment_method": "Cash",
+    "total_amount": 200,
+    "status": "Processing"
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "shipping_address": "3 Main Street",
+    "delivery_method": "Pickup",
+    "payment_method": "Credit Card",
+    "total_amount": 300,
+    "status": "Shipped"
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "shipping_address": "4 Main Street",
+    "delivery_method": "Courier",
+    "payment_method": "Cash",
+    "total_amount": 400,
+    "status": "Processing"
+  },
+  {
+    "id": 5,
+    "user_id": 5,
+    "shipping_address": "5 Main Street",
+    "delivery_method": "Pickup",
+    "payment_method": "Cash",
+    "total_amount": 500,
+    "status": "Shipped"
+  },
+  {
+    "id": 6,
+    "user_id": 6,
+    "shipping_address": "6 Main Street",
+    "delivery_method": "Courier",
+    "payment_method": "Credit Card",
+    "total_amount": 600,
+    "status": "Processing"
+  },
+  {
+    "id": 7,
+    "user_id": 7,
+    "shipping_address": "7 Main Street",
+    "delivery_method": "Pickup",
+    "payment_method": "Cash",
+    "total_amount": 700,
+    "status": "Shipped"
+  },
+  {
+    "id": 8,
+    "user_id": 8,
+    "shipping_address": "8 Main Street",
+    "delivery_method": "Courier",
+    "payment_method": "Cash",
+    "total_amount": 800,
+    "status": "Processing"
+  },
+  {
+    "id": 9,
+    "user_id": 9,
+    "shipping_address": "9 Main Street",
+    "delivery_method": "Pickup",
+    "payment_method": "Credit Card",
+    "total_amount": 900,
+    "status": "Shipped"
+  }
+]

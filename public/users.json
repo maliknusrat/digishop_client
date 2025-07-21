@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "User 1",
+    "email": "user1@example.com",
+    "image": "user1.jpg",
+    "password": "hashed_pw_1"
+  },
+  {
+    "id": 2,
+    "name": "User 2",
+    "email": "user2@example.com",
+    "image": "user2.jpg",
+    "password": "hashed_pw_2"
+  },
+  {
+    "id": 3,
+    "name": "User 3",
+    "email": "user3@example.com",
+    "image": "user3.jpg",
+    "password": "hashed_pw_3"
+  },
+  {
+    "id": 4,
+    "name": "User 4",
+    "email": "user4@example.com",
+    "image": "user4.jpg",
+    "password": "hashed_pw_4"
+  },
+  {
+    "id": 5,
+    "name": "User 5",
+    "email": "user5@example.com",
+    "image": "user5.jpg",
+    "password": "hashed_pw_5"
+  },
+  {
+    "id": 6,
+    "name": "User 6",
+    "email": "user6@example.com",
+    "image": "user6.jpg",
+    "password": "hashed_pw_6"
+  },
+  {
+    "id": 7,
+    "name": "User 7",
+    "email": "user7@example.com",
+    "image": "user7.jpg",
+    "password": "hashed_pw_7"
+  },
+  {
+    "id": 8,
+    "name": "User 8",
+    "email": "user8@example.com",
+    "image": "user8.jpg",
+    "password": "hashed_pw_8"
+  },
+  {
+    "id": 9,
+    "name": "User 9",
+    "email": "user9@example.com",
+    "image": "user9.jpg",
+    "password": "hashed_pw_9"
+  },
+  {
+    "id": 10,
+    "name": "User 10",
+    "email": "user10@example.com",
+    "image": "user10.jpg",
+    "password": "hashed_pw_10"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "Description for product 1",
+    "image": "product1.jpg",
+    "price": 101,
+    "stock_quantity": 10,
+    "is_promotion": false,
+    "category_id": 2,
+    "brand_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "Description for product 2",
+    "image": "product2.jpg",
+    "price": 102,
+    "stock_quantity": 20,
+    "is_promotion": true,
+    "category_id": 3,
+    "brand_id": 3
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "description": "Description for product 3",
+    "image": "product3.jpg",
+    "price": 103,
+    "stock_quantity": 30,
+    "is_promotion": false,
+    "category_id": 4,
+    "brand_id": 4
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "description": "Description for product 4",
+    "image": "product4.jpg",
+    "price": 104,
+    "stock_quantity": 40,
+    "is_promotion": true,
+    "category_id": 5,
+    "brand_id": 5
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "description": "Description for product 5",
+    "image": "product5.jpg",
+    "price": 105,
+    "stock_quantity": 50,
+    "is_promotion": false,
+    "category_id": 6,
+    "brand_id": 6
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "description": "Description for product 6",
+    "image": "product6.jpg",
+    "price": 106,
+    "stock_quantity": 60,
+    "is_promotion": true,
+    "category_id": 7,
+    "brand_id": 7
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "description": "Description for product 7",
+    "image": "product7.jpg",
+    "price": 107,
+    "stock_quantity": 70,
+    "is_promotion": false,
+    "category_id": 8,
+    "brand_id": 8
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "description": "Description for product 8",
+    "image": "product8.jpg",
+    "price": 108,
+    "stock_quantity": 80,
+    "is_promotion": true,
+    "category_id": 9,
+    "brand_id": 9
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "description": "Description for product 9",
+    "image": "product9.jpg",
+    "price": 109,
+    "stock_quantity": 90,
+    "is_promotion": false,
+    "category_id": 1,
+    "brand_id": 1
+  }
+]
